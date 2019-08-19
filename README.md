@@ -1,5 +1,7 @@
 # React Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/siristechnology/create-react-app-functions.svg)](https://greenkeeper.io/)
+
 This directory is a brief example of a [React](https://reactjs.org/) app with serverless functions that can be deployed to ZEIT Now with zero configuration.
 
 ## How we created this example 
